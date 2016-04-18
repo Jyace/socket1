@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\config.xml",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\layout\\config.xml"
+    },
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_say_he_item.xml",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\layout\\list_say_he_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\configuser.xml",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\layout\\configuser.xml"
+    },
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_say_me_item.xml",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\layout\\list_say_me_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat.xml",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\layout\\chat.xml"
+    }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>     
+	<dimen name="h3">30dip</dimen> 
+	<dimen name="h2">40dip</dimen> 
+	<dimen name="btn1">30dip</dimen>
+	<dimen name="btn2">20dip</dimen>
+	<dimen name="et1">25dip</dimen>
+	<dimen name="ofline">15dip</dimen>
+</resources> 

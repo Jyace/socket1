@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:id = "@+id/infobar"
+		android:layout_alignParentTop="true"
+		android:paddingBottom="5dip"
+		android:background="@drawable/chatopbar">
+		<ImageView
+			android:id="@+id/avatar"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="3"
+			android:src="@drawable/icon"
+		/>
+		<TextView 
+			android:id="@+id/name" 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:layout_weight="1"
+			android:textSize="20dip"
+			android:textColor="#ffffff"
+			android:layout_gravity="center_vertical">
+		</TextView>
+		<ImageView 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:src="@drawable/call"
+			android:layout_weight="3"
+			android:layout_gravity="center_vertical"/>
+	</LinearLayout>
+	<ListView  
+		android:id="@+id/list"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	    android:layout_below="@id/infobar"
+	    android:cacheColorHint="#00000000"
+	    android:paddingBottom="45dip"
+	    android:background="#D4D0C8"
+    />
+    
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:id = "@+id/MessageBox"
+		android:layout_alignParentBottom="true"
+		android:background="#FFFFFF">
+		
+		<EditText 
+			android:id="@+id/chatedit" 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:hint="你想和对方说点什么？"
+			android:layout_weight="1">
+		</EditText>
+		<Button 
+			android:id="@+id/send" 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:text="Send" 
+			android:textSize="@dimen/btn2"
+			android:layout_weight="3">
+		</Button>
+	</LinearLayout>
+</RelativeLayout>

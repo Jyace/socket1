@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\retouxiang.png",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\drawable-hdpi\\retouxiang.png"
+    },
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cl.9.png",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\drawable-hdpi\\cl.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\incoming.9.png",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\drawable-hdpi\\incoming.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\outgoing.9.png",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\drawable-hdpi\\outgoing.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatopbar.png",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\drawable-hdpi\\chatopbar.png"
+    },
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cr.9.png",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\drawable-hdpi\\cr.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call.png",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\drawable-hdpi\\call.png"
+    },
+    {
+        "merged": "F:\\workspace\\socket1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_gray.png",
+        "source": "F:\\workspace\\socket1\\app\\src\\main\\res\\drawable-hdpi\\icon_gray.png"
+    }
+]

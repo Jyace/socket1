@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+    <TextView 
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:text="初始化設置"
+    	android:textSize="@dimen/h2"/>
+    <TextView 
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:text="服務器IP"
+    	android:textSize="@dimen/h3"/>
+    <EditText 
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:hint="192.168.2.214"
+    	android:id="@+id/ip"
+    	android:textSize="@dimen/et1"/>
+    	
+    <TextView 
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:text="端口"
+    	android:textSize="@dimen/h3"/>
+    <EditText 
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:hint="8888"
+    	android:id="@+id/port"
+    	android:textSize="@dimen/et1"/>
+    	
+    <Button 
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:text="下一步"
+    	android:id="@+id/next"
+    	android:textSize="@dimen/btn1"/>		
+</LinearLayout>
